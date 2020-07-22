@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Horoscope/static/css/main.cc9014e3.chunk.css",
+    "main.js": "/React-Horoscope/static/js/main.f47815bb.chunk.js",
+    "main.js.map": "/React-Horoscope/static/js/main.f47815bb.chunk.js.map",
+    "runtime-main.js": "/React-Horoscope/static/js/runtime-main.59f33275.js",
+    "runtime-main.js.map": "/React-Horoscope/static/js/runtime-main.59f33275.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/React-Horoscope/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.adb471dd.chunk.js": "/React-Horoscope/static/js/2.adb471dd.chunk.js",
+    "static/js/2.adb471dd.chunk.js.map": "/React-Horoscope/static/js/2.adb471dd.chunk.js.map",
+    "index.html": "/React-Horoscope/index.html",
+    "precache-manifest.29d413c49bb866533f9ef5c323aef8a7.js": "/React-Horoscope/precache-manifest.29d413c49bb866533f9ef5c323aef8a7.js",
+    "service-worker.js": "/React-Horoscope/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/React-Horoscope/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.cc9014e3.chunk.css.map": "/React-Horoscope/static/css/main.cc9014e3.chunk.css.map",
+    "static/js/2.adb471dd.chunk.js.LICENSE.txt": "/React-Horoscope/static/js/2.adb471dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59f33275.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.adb471dd.chunk.js",
+    "static/css/main.cc9014e3.chunk.css",
+    "static/js/main.f47815bb.chunk.js"
+  ]
+}

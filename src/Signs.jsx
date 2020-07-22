@@ -7,7 +7,7 @@ let Signs = ({ parentCallbackSelectedSign }) => {
 
     useEffect(() => {
         async function getData() {
-            let response = await axios.get('http://sandipbgt.com/theastrologer/api/sunsigns/');
+            let response = await axios.get('https://sandipbgt.com/theastrologer/api/sunsigns/');
             console.log(response.data);
             setSigns(response.data);
         }

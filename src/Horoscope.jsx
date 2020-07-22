@@ -7,7 +7,7 @@ let Horoscope = (props) => {
 
     useEffect(() => {
         async function getData() {
-            let response = await axios.get(`http://sandipbgt.com/theastrologer/api/horoscope/${props.sign}/${props.timeframe}`);
+            let response = await axios.get(`https://sandipbgt.com/theastrologer/api/horoscope/${props.sign}/${props.timeframe}`);
             console.log(response.data.horoscope);
             setHoroscope(response.data.horoscope);
         }
